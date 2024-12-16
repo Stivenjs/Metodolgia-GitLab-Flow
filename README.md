@@ -1,7 +1,7 @@
 # **Guía de la Metodología GitLab Flow**
 
 ## **¿Qué es GitLab Flow?**
-GitLab Flow es una metodología de trabajo con Git que combina lo mejor de GitHub Flow y Git Flow, permitiendo una gestión eficiente de entornos de desarrollo, pruebas y producción. Su principal objetivo es facilitar la integración continua (CI) y el despliegue continuo (CD) en proyectos de desarrollo de software..
+GitLab Flow es una metodología de trabajo con Git que combina lo mejor de GitHub Flow y Git Flow, permitiendo una gestión eficiente de entornos de desarrollo, pruebas y producción. Su principal objetivo es facilitar la integración continua (CI) y el despliegue continuo (CD) en proyectos de desarrollo de software.
 
 ---
 
